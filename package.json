@@ -1,0 +1,24 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "User guesses letter to expose chosen word",
+  "main": "userInput.js",
+  "dependencies": {
+    "require": "^2.4.20",
+    "inquirer": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mquade91/Constructor-Hangman.git"
+  },
+  "author": "Matt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mquade91/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/mquade91/Constructor-Hangman#readme"
+}
